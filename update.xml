@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.13.1.79</version>
+		<version>1.13.1.80</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates_Franchise/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>2c230b794cb68bdf7749b204219744c3</md5>
-		<description>&#xA; => Fixed bugs on OPEX data entries. &#xA;&#xA;Updated on May 18, 2023 @ 9AM</description>
+		<md5>1d959bfa5d8cfe410161b9a15411b552</md5>
+		<description>&#xA; => Fixed bugs on nonsales inventory entry. &#xA;&#xA;Updated on May 18, 2023 @ 5PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.14.0.88</version>
+		<version>1.14.0.91</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates_Franchise/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>9fac2e4bf291b9d71ef7dc545d5ea7ab</md5>
-		<description>&#xA; => Fixed some bugs on admin panel.&#xA; => Fixed problem on launching the app for Win11 22H2 version. &#xA;&#xA;Updated on May 22, 2023 @ 12PM</description>
+		<md5>4fafb63e8fb9728e00cd43ce55d89dbe</md5>
+		<description>&#xA; => Disabled date selection of previous months for products and nonsales stocks. &#xA;&#xA;Updated on May 23, 2023 @ 8AM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>

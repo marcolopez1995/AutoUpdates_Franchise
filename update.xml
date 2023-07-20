@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.16.6.131</version>
+		<version>1.16.6.132</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates_Franchise/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>988cb5ce656759c180b582addc5b9167</md5>
-		<description>&#xA; => Encoders can now switch cashier account at Sales Supervisor account. &#xA;&#xA;Updated on July 20, 2023 @ 10AM</description>
+		<md5>772ba68b9e5f262b4217fb11490f13e1</md5>
+		<description>&#xA; => Encoders can now switch cashier account at Sales Supervisor account. &#xA;&#xA;Updated on July 20, 2023 @ 11AM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.16.6.136</version>
+		<version>1.16.6.137</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates_Franchise/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>a3073ed5232b901f0a4af3b15a92819b</md5>
-		<description>&#xA; => Fixed some bugs on admin panel. &#xA;&#xA;Updated on July 21, 2023 @ 4PM</description>
+		<md5>d1427227756b223fb31ed70a0c9db8e1</md5>
+		<description>&#xA; => Lauch officially our online server using Somee International DB hosting. &#xA;&#xA;Updated on July 27, 2023 @ 2PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>

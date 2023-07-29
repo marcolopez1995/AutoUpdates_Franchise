@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.16.6.139</version>
+		<version>1.16.6.140</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates_Franchise/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>b0db4355a2fb35615a4abe7dda7b0387</md5>
-		<description>&#xA; => Updates forms for products and nonsales stock in and fixed default unit type for nonsales items. &#xA;&#xA;Updated on July 28, 2023 @ 1PM</description>
+		<md5>5d0848f7b8e80fb844bc7ebcd69b85f5</md5>
+		<description>&#xA; => Fixed bugs on nonsales stockout. &#xA;&#xA;Updated on July 29, 2023 @ 8AM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>

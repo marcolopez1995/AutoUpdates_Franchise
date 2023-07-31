@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.16.6.144</version>
+		<version>1.16.6.145</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates_Franchise/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>c08c39c10511a0fbe6a64a22b258db30</md5>
-		<description>&#xA; => Automatic redirection to JPM account after cashier logout. &#xA;&#xA;Updated on July 31, 2023 @ 12PM</description>
+		<md5>cceb038e4270261777ab7e4954098b4b</md5>
+		<description>&#xA; => Adjust UI of users and branches tabs. &#xA;&#xA;Updated on July 31, 2023 @ 5PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>

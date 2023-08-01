@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.16.6.145</version>
+		<version>1.16.6.146</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates_Franchise/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>cceb038e4270261777ab7e4954098b4b</md5>
-		<description>&#xA; => Adjust UI of users and branches tabs. &#xA;&#xA;Updated on July 31, 2023 @ 5PM</description>
+		<md5>2166976a5959b655ce83b5f20b25d16b</md5>
+		<description>&#xA; => Showing LPG for ending amount every month. &#xA;&#xA;Updated on August 1, 2023 @ 4PM</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>

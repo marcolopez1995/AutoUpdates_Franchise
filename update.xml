@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.17.0.147</version>
+		<version>1.18.0.182</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates_Franchise/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>499939a1651ed5067b646a5f77f9dfdf</md5>
-		<description>&#xA; => Fixed cogs on FIFO products upon daily report generation. &#xA;&#xA;Updated on August 4, 2023 @ 12AM</description>
+		<md5>6272b99d34622fb44a35b0d68b53c5fe</md5>
+		<description> &#xA; => WHAT'S NEW (As of October 27, 2023 @ 1PM) &#xA;&#xA;1. Fixed system bugs and enhanced functionalities.&#xA;2. Products and Nonsales items are now being processed using the FIFO method.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>

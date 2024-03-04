@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.19.0.223</version>
+		<version>1.19.0.224</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates_Franchise/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>5f1b1aa49a3455626a4f71fc387166d2</md5>
-		<description> &#xA; => WHAT'S NEW (As of March 01, 2024 @ 2PM) &#xA;&#xA;1. Added opex items (rentals,taxes and salary) to prorated/consolidated reports.&#xA;2. Added purchased amount column on generated daily report.&#xA;3. Enhanced system functionality.</description>
+		<md5>c5ce1db6fc2996e6b5f6b9703d8fcf95</md5>
+		<description> &#xA; => WHAT'S NEW (As of March 04, 2024 @ 2PM) &#xA;&#xA;1. Added royalty share column to summary report.&#xA;3. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>

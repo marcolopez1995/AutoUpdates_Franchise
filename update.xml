@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="FastFoodPOS">
-		<version>1.19.0.225</version>
+		<version>1.19.0.226</version>
 		<url>https://raw.githubusercontent.com/marcolopez1995/AutoUpdates_Franchise/main/FastFoodPOS.exe</url>
 		<filename>FastFoodPOS.exe</filename>
-		<md5>e1222399c77ab69f9e926f9060712a00</md5>
-		<description> &#xA; => WHAT'S NEW (As of March 04, 2024 @ 2PM) &#xA;&#xA;1. Added royalty share column to summary report.&#xA;2. Enhanced system functionality.</description>
+		<md5>b7eec533929562f5af6a7991b5193338</md5>
+		<description> &#xA; => WHAT'S NEW (As of March 29, 2024 @ 12AM) &#xA;&#xA;1. Added Franchisee access account to system.&#xA;2. Enhanced system functionality.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
